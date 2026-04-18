@@ -17,21 +17,7 @@
 
 ---
 
-## ⚡ `whoami`
 
-```bash
-$ cat about_ankush.json
-{
-  "name": "Ankush Kumar",
-  "role": "Full-Stack Web Developer",
-  "location": "India 🇮🇳",
-  "currently_building": "Real-world MERN Stack applications",
-  "exploring": ["App Development", "Cybersecurity", "Ethical Hacking"],
-  "open_to": "Collaborating on impactful tech projects",
-  "ask_me_about": ["React", "Node.js", "MongoDB", "Web Dev Basics"],
-  "fun_fact": "I enjoy building apps that are both secure AND scalable 🔐🚀"
-}
-```
 
 ---
 
